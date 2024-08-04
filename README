@@ -1,0 +1,28 @@
+<h2>Tea Vending Machine</h2>
+This Python program simulates a tea vending machine. It offers three types of tea: “Doodh Patti,” “Kashmiri Chai,” and “Kehwa.” Users can select their desired tea, insert money, and receive their beverage.
+<br>
+<h2>Features</h2>
+<h3>Menu:</h3>
+<br>Doodh Patti:
+<br>Ingredients: Milk (100ml), Tea (24g)
+<br>Cost: RS 50
+<br>Kashmiri Chai:
+<br>Ingredients: Water (200ml), Milk (150ml), Tea (24g)
+<br>Cost: RS 60
+<br>Kehwa:
+<br>Ingredients: Water (50ml), Tea (18g)
+<br>Cost: RS 40
+<br>Resources:
+<br>Water: 300ml
+<br>Milk: 200ml
+<br>Tea: 100g
+<h2>Functionality:</h2>
+<br>Check resource availability.
+<br>Accept money from the user.
+<br>Dispense tea and calculate change.
+<br>Provide a report on available resources.
+<h2>Usage</h2>
+Run the program.
+Choose your tea type (doodh Patti / Kashmiri Chai / Kehwa).
+Insert money when prompted.
+Enjoy your tea!
